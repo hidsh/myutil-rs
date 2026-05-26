@@ -1,0 +1,7 @@
+[package]
+name = "dp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+myutil = { version = "0.1.0", git = "https://github.com/hidsh/myutil-rs" }
